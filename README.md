@@ -1,5 +1,7 @@
 # 💧 Vital Poços e Perfurações
 
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
 ## 🌊 Sobre o Projeto
 
 Projeto conceitual de site institucional para uma empresa especializada em
