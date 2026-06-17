@@ -6,7 +6,10 @@
 
 Projeto conceitual de site institucional para uma empresa especializada em
 poços artesianos e soluções de água voltadas para irrigação, indústrias e
-diversos segmentos.
+diversos segmentos. Um dos pontos de maior atenção foi a seção "Nossos
+Serviços", onde construí um mockup de celular usando CSS para posicionar a
+estrutura e JavaScript para alternar as imagens exibidas dentro da tela,
+simulando a navegação em um aplicativo.
 
 ---
 
@@ -22,15 +25,23 @@ diversos segmentos.
 
 - Atração de novos clientes
 - Facilidade de contato com a equipe
-- Reforço da credibilidade e identidade visual da marca
 
 ---
 
-## 🧠 Aprendizados
+## ✨ Funcionalidades
 
-Projeto que me permitiu praticar a criação de sites institucionais,
-trabalhando planejamento visual, estrutura semântica e interatividade
-com JavaScript.
+**Geral**
+- Layout responsivo para desktop e dispositivos móveis
+- Animações suaves de transição entre elementos
+
+**Sobre Nós**
+- Apresentação da empresa e seus diferenciais
+
+**Nossos Serviços**
+- Mockup de celular com troca de imagens via JavaScript
+
+**Contato**
+- Links diretos para WhatsApp, Instagram e Facebook
 
 ---
 
